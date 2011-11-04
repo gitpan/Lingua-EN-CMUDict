@@ -5,5 +5,4 @@ MANIFEST
 README
 share/cmusyldict.db
 t/Lingua-EN-CMUDict.t
-tools/cmudict.0.6d.syl
 tools/mkdbfile.pl
